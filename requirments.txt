@@ -1,0 +1,4 @@
+pyautogui
+keyboard
+email.message
+imghdr
