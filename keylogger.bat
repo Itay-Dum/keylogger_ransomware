@@ -1,1 +1,0 @@
-"C:\Users\win VM\AppData\Local\Programs\Python\Python38-32\python.exe" "c:\bin\test.py"
